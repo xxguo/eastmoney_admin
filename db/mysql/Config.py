@@ -3,9 +3,9 @@
 # @Author  : xxguo
 # @Software: PyCharm
 
-DBHOST = "47.96.67.154"
-DBPORT = 3306
-DBUSER = "root"
-DBPWD = "password_123_Admin"
+DBHOST = ""
+DBPORT = 0
+DBUSER = "0"
+DBPWD = "0"
 DBNAME = "crawl_data"
 DBCHAR = "utf8"
